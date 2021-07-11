@@ -1,0 +1,270 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+  background-color: rgb(17,17,17);
+}
+#nav{
+	position: fixed;
+	width: 100%;
+}
+#home{
+	color: rgb(17,17,17);
+	font-size: 1px;
+}
+
+.bgimg-1 {
+  background-image: url("background.gif");
+  height: 100%;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.caption {
+  position: absolute;
+  top: 47%;
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+
+.caption span.border {
+  background-color: white;
+  color: black;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(17,17,17);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#nav{
+	
+}
+.me{
+ position: absolute;
+ width: 300px;
+ height:300px;
+ border-radius: 75%;
+ top: 130%;
+ left: 10%;
+
+}
+#about{
+	height: 5px;
+	width: 5px;
+	position: absolute;
+	top: 110%;
+
+}
+
+.about{
+position: absolute;
+ width: 700px;
+ height:300px;
+ top: 130%;
+ left: 30%;
+ color: white;
+ padding-bottom: 100px;
+}
+.line{
+	font-size: 20px;
+	padding-left: 100px;
+}
+#seminars{
+	height: 5px;
+	width: 100%;
+	position: absolute;
+	top: 210%;
+
+}
+
+.seminar1{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 230%;
+	left: 3%;
+}
+.seminar2{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 230%;
+	left: 27%;
+}
+.seminar3{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 230%;
+	left: 51%;
+}
+.seminar4{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 230%;
+	left: 75%;
+}
+.seminar5{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 265%;
+	left: 75%;
+}
+.seminar6{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 265%;
+	left: 51%;
+}
+.seminar7{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 265%;
+	left: 27%;
+}
+.seminar8{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 265%;
+	left: 3%;
+}
+.seminar9{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 300%;
+	left: 3%;
+}
+.seminar10{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 300%;
+	left: 27%;
+}
+.seminar11{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 300%;
+	left: 51%;
+}
+.seminar12{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 300%;
+	left: 75%;
+}
+.seminar13{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 335%;
+	left: 3%;
+	padding-bottom: 100px;
+}
+.seminar14{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 335%;
+	left: 27%;
+}
+.seminar15{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 335%;
+	left: 51%;
+}
+.seminar16{
+	position: absolute;
+	height: 200px;
+	width: 300px;
+	top: 335%;
+	left: 75%;
+}
+
+
+#contact{
+  height: 200px;
+  background-color: white;
+  position: absolute;
+  top: 400%;
+  color: black;
+  width: 100%;
+}
+.label1{
+  font-weight: bold;
+  padding-left: 30px;
+  font-size: 20px;
+}
+.label2{
+  font-weight: normal;
+  padding-left: 30px;
+  font-size: 15px;
+}
+
+.label3{
+position: absolute;
+margin-left: 50%;
+top: 2%;
+font-size: 20px;
+font-weight: bold;
+}
+.facebook{
+position: absolute;
+margin-left: 50%;
+top: 40%;
+font-size: 20px;
+font-weight: bold;
+height: 60px;
+}
+.twitter{
+position: absolute;
+margin-left: 58%;
+top: 40%;
+font-size: 20px;
+font-weight: bold;
+height: 60px;
+}
+.instagram{
+position: absolute;
+margin-left: 66%;
+top: 40%;
+font-size: 20px;
+font-weight: bold;
+height: 60px;
+}
